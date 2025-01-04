@@ -1,0 +1,10 @@
+poorna,Deposit,1000.00
+201286, Deposit, 1000.0
+498022, Deposit, 1000.0
+201286, Deposit, 1000.0
+466802, Withdrawal, 1000.0
+15998121776, Deposit, 0.0
+09169752271, Deposit, 0.0
+57584170767, Deposit, 500.0
+16989017289, Withdrawal, 500.0
+57111327660, Deposit, 1000.0
